@@ -1,0 +1,12 @@
+.layui-form-select dl {
+    z-index: 9999;
+}
+.status-color-1{
+	color: #fff;
+}
+.status-color-2{
+	color: #f60;
+}
+.status-color-3{
+	color: #000;
+}
